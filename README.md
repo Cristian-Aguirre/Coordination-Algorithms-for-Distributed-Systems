@@ -5,3 +5,5 @@ Curso : Sistemas Operativos Avanzados
 
 Integrantes:
 - Cristian Aguirre Janampa
+- Espinoza Vicuña Carlos
+
